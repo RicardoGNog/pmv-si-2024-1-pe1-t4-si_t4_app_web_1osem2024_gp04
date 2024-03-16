@@ -1,23 +1,23 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Sistema de Informações`
 
-`DISCIPLINA`
+`Eixo 1: Projeto: Aplicações Web`
 
-`SEMESTRE`
+`2024`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
+* Alexandre Barbosa
+* Luís Márcio de Oliveira Santos
+* Ricardo Gaede Nogueira
 * Nome completo do aluno 4
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nesley Jesus Daher de Oliveira
 
 ## Instruções de utilização
 
